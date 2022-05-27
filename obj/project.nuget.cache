@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJn0aIhrOd1hzYQnt2A2ZHlGxaLG8nCweVlwqC5eQUsX0FXtMiuY2pVVoKciGZ/eGL7Fbe7vg76jRj1R4EfN8w==",
+  "dgSpecHash": "Tw566o+rdFecqQon7T+3V0tIdKW2cC2gaYETwziYfcqgqPIwTICF9dmfNM13v3HLVDZl4OM9pmHq/y/l3WWzGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\CrudJson\\CrudJson.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\TestandoCrud\\CrudJson.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
